@@ -1,4 +1,4 @@
-# kotlin-study-sprout ![issue](https://img.shields.io/badge/issue-open-green) ![문의사항](https://img.shields.io/badge/%EB%AC%B8%EC%9D%98%ED%95%98%EA%B8%B0-pooreumsunny%40gamil.com-green)
+# kotlin-study-sprout ![issue](https://img.shields.io/badge/issue-open-green) ![문의사항](https://img.shields.io/badge/%EB%AC%B8%EC%9D%98%ED%95%98%EA%B8%B0-pooreumsunny%40gamil.com-green) ![category](https://img.shields.io/badge/%EB%AC%B8%EC%9D%98%ED%95%98%EA%B8%B0-study-yello)
 🌱 새싹 신입들의 kotlin 정복기 🚀
 <br />
 <br />
